@@ -1,4 +1,4 @@
-#column labels
+# Column labels
 
 column 1 - m (number of bits)
 
